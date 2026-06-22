@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+*.pyo
+backend/exports/
+backend/*.db
+backend/test_upload.*
+backend/english_reading.db
+.DS_Store
+*.log
